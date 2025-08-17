@@ -11,6 +11,11 @@ Ne, opravdu netěžíme bitcoin – ale simulace vypadá, chová se a dává poc
 - 🔧 Připraveno pro další rozšíření: více „měn“, statistiky, pokročilá grafika.
 
 💻 **Jak ho spustit:**
-```bash
-chmod +x fake_miner.sh
-./fake_miner.sh
+- Naklonujte repositář
+  ```bash
+  git clone https://github.com/Kubays120/Mining-Simulator.git
+  cd Mining-Simulator
+- Nastavte spustitelnost simulátoru a spusťte simulátor
+  ```bash
+  chmod +x fake_miner.sh
+  ./fake_miner.sh
